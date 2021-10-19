@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.tox/
+.coverage
+.cache
+.pytest_cache/
+*.log
+*.pot
+.staticfiles/
+.media/
+.env
+venv/
+.idea/
